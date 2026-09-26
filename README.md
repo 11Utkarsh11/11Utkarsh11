@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🧑‍💻 I'm Utkarsh, a Python developer based in India.
+- 🧑‍💻 I'm Utkarsh, a Python developer based in Delhi, India.
 - 🌱 I'm currently learning Python, Flask and web development.
 - 🔭 I'm currently building small-scale Python projects to sharpen my skills.
 - 🧠 I'm currently learning more about OOP and writing cleaner, better-structured code.
